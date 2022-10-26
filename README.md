@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+              A frontend developer from Nigeria
 <!--
 **Muneerat/Muneerat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+  About Me
 - 🔭 I’m currently working on project with HTML,CSS and JAVASCRIPT. 
 - 🌱 I’m currently learning more of Javascript and Tailwind Css.
 - 📫 How to reach me: oladipomunirat@gmail.com. 
