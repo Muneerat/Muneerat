@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on project with HTML,CSS and JAVASCRIPT. 
+- 🌱 I’m currently learning more of Javascript and Tailwind Css.
+- 📫 How to reach me: oladipomunirat@gmail.com. 
+
+
+
