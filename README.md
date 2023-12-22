@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on project with HTML,CSS and JAVASCRIPT 
+- 🔭 I’m currently working on project with HTML,CSS, JAVASCRIPT React, and Tailwind css.
 - 🌱 I’m currently learning more of Javascript and Tailwind Css...
 - 👯 I’m looking to collaborate on project with other developers...
 - 🤔 I’m looking for help with ...
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   About Me
-- 🔭 I’m currently working on project with HTML,CSS and JAVASCRIPT. 
-- 🌱 I’m currently learning more of Javascript and Tailwind Css.
+- 🔭 I’m currently working on project with HTML, CSS, JAVASCRIPT, React, and Tailwind css.
+- 🌱 I’m currently learning more about Redux and Next Js.
 - 📫 How to reach me: oladipomunirat@gmail.com. 
 
 
